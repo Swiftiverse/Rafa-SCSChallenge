@@ -20,3 +20,6 @@ This challenge will be developed in stages like a triathlon: starting with Story
         └── 📁 ...
              └── 📄 ...
 ```
+
+# Git Commit Convention
+[Commit Convention](https://github.com/Swiftiverse/SCSChallenge/blob/main/CommitConvention.md)
